@@ -1,0 +1,6 @@
+{
+  "name": "KinderRoster — Google Forms & Student Directory",
+  "description": "Create and sync Google Forms for kindergarten student name and gender registration with a searchable classroom database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
